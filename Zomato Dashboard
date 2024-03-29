@@ -1,0 +1,48 @@
+Description:
+The Zomato Dashboard project in Power BI was designed to provide a comprehensive analysis of key performance indicators (KPIs) and insights for the Zomato platform. The dashboard comprises three report pages: Overview, User Performance, and City Performance, each focusing on different aspects of the platform's performance.
+
+Metrics:
+
+Overview Page:
+
+Order Count: Total number of orders placed on the Zomato platform.
+Sales Amount: Total revenue generated from orders.
+Sales Quantity: Total quantity of items sold.
+Rating Count: Total number of ratings received from customers.
+Rating for Nov-Veg, Veg, and Other (Fast Food): Average rating received for different types of cuisine.
+User Performance Page:
+
+Total Users: Total number of users registered on the platform.
+Active Users: Number of users actively engaging with the platform.
+Gain Users: Number of new users gained during a specified period.
+Lost Users: Number of users who stopped using the platform during a specified period.
+Users Count Wise Age: Distribution of users by age group.
+City Performance Page:
+
+City-wise Sales: Total sales revenue generated from orders in each city.
+City-wise Rating: Average rating received by restaurants in each city.
+City-wise Active Users: Number of active users accessing the platform from each city.
+City-wise Order Count, Total Sales, Total Gain Users, and Total Lost Users: Detailed metrics for each city.
+Key Insights:
+
+Overview Page:
+
+Identifying trends in order volume, sales revenue, and customer ratings over time.
+Analyzing the performance of different cuisine types based on customer ratings.
+Understanding the popularity of various food categories such as vegetarian, non-vegetarian, and fast food among customers.
+User Performance Page:
+
+Monitoring user engagement levels and identifying factors influencing user retention and churn.
+Understanding the demographics of active users and trends in user acquisition and loss.
+Assessing the impact of marketing campaigns or platform changes on user growth and retention.
+City Performance Page:
+
+Comparing sales performance and customer engagement metrics across different cities.
+Identifying cities with high potential for growth or areas needing improvement in customer satisfaction.
+Tailoring marketing strategies and operational decisions based on insights into city-level performance.
+Impact:
+
+Data-Driven Decision Making: Empowered stakeholders to make informed decisions regarding marketing strategies, user engagement initiatives, and geographic expansion plans.
+Improved User Experience: Enabled Zomato to better understand user preferences, address customer feedback, and enhance the overall user experience on the platform.
+Optimized Operations: Provided insights into sales trends, customer behavior, and performance metrics at both the user and city levels, enabling Zomato to optimize operations and allocate resources effectively.
+Business Growth: Facilitated targeted interventions to drive user acquisition, retention, and revenue growth, ultimately contributing to the overall success and expansion of the Zomato platform.
